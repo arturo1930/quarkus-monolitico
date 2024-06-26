@@ -1,0 +1,36 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "msQuarkus",
+    "blueprints": [
+      {
+        "name": "generator-jhipster-quarkus",
+        "version": "3.1.0"
+      }
+    ],
+    "buildTool": "maven",
+    "cacheProvider": "no",
+    "clientFramework": "vue",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1719429360939,
+    "databaseType": "sql",
+    "devDatabaseType": null,
+    "devServerPort": 9060,
+    "enableHibernateCache": true,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.2.1",
+    "microfrontend": null,
+    "microfrontends": [],
+    "monorepository": true,
+    "nativeLanguage": "es",
+    "packageName": "com.mycompany.myapp",
+    "prodDatabaseType": "mysql",
+    "serverPort": null,
+    "skipCommitHook": true,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
